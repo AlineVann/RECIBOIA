@@ -1,2 +1,8 @@
 # RECIBOIA
 HACKATHON_HACKAZERO_RECIBOIA
+O RECIBOIA é uma solução de impacto socioambiental desenhada para mitigar os prejuízos causados por alagamentos em comunidades vulneráveis. O projeto utiliza o conceito de economia circular ao transformar resíduos da construção civil em dispositivos flutuantes para proteção de bens materiais.
+💡 A Solução: RECIBOIADesenvolvemos um dispositivo de baixo custo e alta eficiência utilizando lona reutilizada e material plástico flutuante. O funcionamento baseia-se em um sistema de proteção impermeável que permite ao móvel flutuar conforme o nível da água sobe, evitando o contato direto e o dano total.
+👔 Modelo de Negócio (Visão Estratégica)Como parte do desenvolvimento, estruturamos uma proposta B2G (Business to Government) focada na Prefeitura do Recife:Proposta de Valor: Redução de gastos públicos com resgate e assistência emergencial, além da diminuição de riscos de doenças e óbitos em alagamentos.Parcerias Estratégicas: Colaboração com empresas de engenharia para fornecimento de matéria-prima (resíduos) e logística reversa através de centros comunitários como o COMPAZ.
+🛠️ Minha ContribuiçãoNeste projeto, atuei diretamente na:Análise de Dados e Contextualização: Levantamento de dados estatísticos sobre a vulnerabilidade climática na região de Recife/Olinda.Desenvolvimento da Visão de Negócio: Estruturação da proposta de valor e do modelo de sustentabilidade do projeto.Apresentação (Pitch): Defesa da viabilidade técnica e social da solução para a banca examinadora da Accenture.
+LINK DISPONIÍVEL PARA VISUALIZAÇÃO LOGO ABAIXO
+https://canva.link/xg18v1jqi8mehhy
